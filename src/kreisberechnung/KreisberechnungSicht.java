@@ -10,7 +10,7 @@ package kreisberechnung;
  * @author kilia
  */
 public class KreisberechnungSicht extends javax.swing.JFrame {
-
+//dddjdj
     private Kreis k;
 
     /**
